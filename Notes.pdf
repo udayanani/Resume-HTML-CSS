@@ -1,0 +1,55 @@
+Shortcuts:
+ctrl + k + C --- for comments in HTML
+ctrl + shift + p == for panel (upper lower)
+
+
+<pre> 
+tag is used to maintain the preserves the line breaks and spaces. Whatever you give
+within is exactly maintained
+</pre>
+------
+<hr> It is used to make a horizontal line
+------
+<br> It is used for line break
+------
+Style elements:
+Use the style attribute for styling HTML elements
+Use background-color for background color
+Use color for text colors
+Use font-family for text fonts
+Use font-size for text sizes
+Use text-align for text alignment
+-------
+HTML Quotation and Citation Elements
+<abbr>	Defines an abbreviation or acronym
+<address>	Defines contact information for the author/owner of a document
+<bdo>	Defines the text direction
+<blockquote>	Defines a section that is quoted from another source
+<cite>	Defines the title of a work
+<q>	Defines a short inline quotation
+-----
+CSS can be added to HTML documents in 3 ways:
+
+Inline - by using the style attribute inside HTML elements
+Internal - by using a <style> element in the <head> section
+External - by using a <link> element to link to an external CSS file
+------
+CSS styles
+Use the HTML style attribute for inline styling
+Use the HTML <style> element to define internal CSS 
+Use the HTML <link> element to refer to an external CSS file 
+Use the HTML <head> element to store <style> and <link> elements
+Use the CSS color property for text colors
+Use the CSS font-family property for text fonts
+Use the CSS font-size property for text sizes
+Use the CSS border property for borders
+Use the CSS padding property for space inside the border
+Use the CSS margin property for space outside the border
+-----
+For progress update in percentages
+Use progress tag along with label
+eg:
+<label for="file">Downloading progress:</label>
+<progress id="file" value="32" max="100"> 32% </progress>
+-------
+
